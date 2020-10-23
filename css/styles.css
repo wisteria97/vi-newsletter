@@ -1,0 +1,144 @@
+html {
+	width: 600px;
+	max-width: 90%;
+	margin: auto;
+	padding: 0;
+}
+
+/*header*/
+
+.logo {
+	max-width: 75%;
+	width: 600px;
+}
+
+header {
+	display: inline-block;
+	margin: auto;
+	text-align: center;
+}
+
+h4 {
+	font-family: Avenir;
+	font-size: 16px;
+	font-weight: normal;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin: auto;
+}
+
+.date {
+	font-family: Avenir;
+	font-size: 16px;
+	font-weight: bold;
+	color: #a5a5a5;
+	padding-top: 0;
+	margin-top: 0;
+}
+
+header img {
+	max-width: 100%;
+	margin: 0;
+}
+
+/*body*/
+body {
+	margin: auto;
+	padding: 0;
+}
+
+h1 {
+	font-family: Abril Fatface;
+	font-size: 24px;
+	text-align: left;
+	margin-bottom: 25px;
+	margin-top: 50px;
+}
+
+h2 {
+	font-family: Avenir;
+	font-size: 18px;
+	font-weight: bold;
+	margin: auto;
+}
+
+.startuptag {
+	font-family: Avenir;
+	font-size: 14px;
+	font-weight: lighter;
+	margin: 0;
+	margin-bottom: 15px;
+}
+
+.startuplogo {
+	width: 44px;
+	overflow: auto;
+	display: inline-block;
+	float: left;
+	margin-right: 10px;
+}
+
+p {
+	font-family: Avenir;
+	font-size: 16px;
+}
+
+
+/*Good Reads*/
+.goodreads {
+	margin: auto;
+	margin-bottom: 50px;
+	width: 100%;
+	height: auto;
+	overflow: auto;
+}
+
+.goodreads img {
+	width: 180px;
+	max-width: 50%;
+	height: auto;
+	align-items: top;
+	display: flex;
+	float: left;
+	padding: 0;
+	margin: auto;
+	margin-right: 30px;
+}
+
+
+/*links*/
+a:hover {
+	transition: 0.3s;
+	opacity: 25%;
+}
+
+a {
+	text-decoration: none;
+	color: 
+}
+
+/*spacing*/
+.topmargin {
+	margin-top: 50px;
+}
+
+/*visual*/
+hr {
+	margin: 50px 0;
+}
+
+.green {
+	color: #3dcf7e;
+}
+
+.orange {
+	color: #ff921c;
+}
+
+.blue {
+	color: #0b77ff;
+}
+
+.grey {
+	color: #a5a5a5;
+}
